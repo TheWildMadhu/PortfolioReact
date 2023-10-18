@@ -27,18 +27,13 @@ const Navbar =()=> {
             <Link to = "/project">Project</Link>
           </li>
           <li>
-              <a href="https://www.linkedin.com/in/aman-krishan-983980230/">
+              <a href="https://www.linkedin.com/in/madhu-sen-485129217/">
                 <AiFillLinkedin/>
               </a>
             </li>
             <li>
-              <a href="https://github.com/Amankrishan14">
+              <a href="https://github.com/TheWildMadhu">
                 <AiFillGithub/>
-              </a>
-            </li>
-            <li>
-              <a href="https://twitter.com/krishan_aman14">
-                <AiFillTwitterSquare/>
               </a>
             </li>
             <Link to ="/contact">
