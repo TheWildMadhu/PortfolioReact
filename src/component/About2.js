@@ -7,9 +7,7 @@ const About2 = () => {
       <div className="left">
         <h1>Who Am I?</h1>
         <p>
-          You have come this far it means you liked my work.Now you have a
-          question who i am.I am a react front-end developer.I create responsive
-          websites.
+          I am a React front-end developer. I create responsive websites. More work coming soon.
         </p>
       </div>
       <div className="right">
